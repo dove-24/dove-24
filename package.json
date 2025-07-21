@@ -1,0 +1,22 @@
+{
+  "name": "@dove-24/project",
+  "version": "1.0.0",
+  "description": "A simple Node.js project with funding support.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "dove-24",
+  "license": "MIT",
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/dove-24"
+    },
+    {
+      "type": "opencollective",
+      "url": "https://opencollective.com/dove-24"
+    }
+  ],
+  "dependencies": {}
+}
